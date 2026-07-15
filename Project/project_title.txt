@@ -1,4 +1,0 @@
-Project Name : Machine Learning Models for Climate Risk & Environmental Forecasting
-Group Members : 1.Sani Patel
-                2.Jeni Patel
-                3.Hardip Patel
